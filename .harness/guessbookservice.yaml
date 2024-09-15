@@ -1,0 +1,5 @@
+service:
+  name: guessbook-service
+  identifier: guessbookservice
+  orgIdentifier: default
+  projectIdentifier: default_project
